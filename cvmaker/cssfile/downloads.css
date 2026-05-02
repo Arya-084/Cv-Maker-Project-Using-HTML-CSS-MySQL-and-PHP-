@@ -1,0 +1,17 @@
+body {
+    height: 100vh;
+    background: whitesmoke;
+
+}
+.navbar{
+    background: linear-gradient(135deg, #fbfcfc, hsl(175, 93%, 89%));
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav :hover{
+    background-color: #3fa0f0;
+    color: white;
+    border-radius: 10px;
+    transform: scale(1.05);
+}
